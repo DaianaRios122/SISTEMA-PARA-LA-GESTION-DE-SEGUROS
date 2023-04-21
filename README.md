@@ -1,4 +1,4 @@
-# SISTEMA-PARA-LA-GESTION-DE-SEGUROS
+# SISTEMA-PARA-LA-GESTION-DE-SEGUROS Dai - Cami
 Seminario de Lenguajes opción .NET - Trabajo final
 
 La entrega se realizará por medio de un formulario de Google que se publicará más adelante. Se deberá
