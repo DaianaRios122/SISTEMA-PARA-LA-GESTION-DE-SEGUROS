@@ -1,2 +1,2 @@
-# SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS
+# SISTEMA-PARA-LA-GESTION-DE-SEGUROS
 Seminario de Lenguajes opción .NET - Trabajo final
